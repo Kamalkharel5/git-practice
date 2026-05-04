@@ -24,3 +24,6 @@ def power(a, b):
     return a ** b
     
 print("Calculator ready!")
+# Work in progress
+def new_feature():
+    pass
