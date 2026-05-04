@@ -23,3 +23,4 @@ if __name__ == "__main__":
 def power(a, b):
     return a ** b
     
+print("Calculator ready!")
