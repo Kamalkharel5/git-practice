@@ -28,3 +28,5 @@ Currently adding a new feature
 
 ## Contributors
 - John DeLuce
+
+- Testing if branch protection works
