@@ -28,3 +28,7 @@ Currently adding a new feature
 
 ## Contributors
 - John DeLuce
+
+# Testing Branch Protection
+
+This change should be blocked by branch protection!
