@@ -18,6 +18,12 @@ def square(a):
     """Return the square of a number"""
     return a ** 2
 
+def percentage(a, b):
+    """Return the percentage of a with respect to b"""
+    if b == 0:
+        return "Error: Cannot calculate percentage with denominator zero"
+    return (a / b) * 100
+
 if __name__ == "__main__":
     print("Calculator loaded!")
     print(f"5 + 3 = {add(5, 3)}")
